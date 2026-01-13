@@ -1,0 +1,27 @@
+Passo a passo para executar o site localmente:
+
+Primeiro, instale o Node.js que está na pasta.
+Ele é necessário para que o site seja executado localmente utilizando os plugins.
+
+Segundo, extraia a pasta do projeto.
+
+Terceiro, acesse a pasta do projeto e copie o caminho dela.
+
+Se estiver usando Windows 11, clique com o botão direito do mouse na pasta e selecione a opção “Abrir no Terminal”.
+
+Em seguida, digite o comando abaixo e pressione Enter:
+
+"npm install"
+
+
+Esse comando irá instalar todas as bibliotecas necessárias para executar o site.
+
+Quarto, após a instalação terminar, execute o comando:
+
+"npm run dev"
+
+
+Isso iniciará o site em modo local.
+
+Por fim, copie o endereço localhost exibido no terminal e cole no navegador.
+Pronto! O site estará funcionando corretamente. ✅
